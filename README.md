@@ -7,10 +7,12 @@
 ### based on themoviedb: https://www.themoviedb.org/
 ### For dev and API documentation: https://developers.themoviedb.org/3/getting-started/introduction
 
+## Screen Shots
+![egy](https://github.com/user-attachments/assets/52772ab0-7853-4c47-b6cf-0f0553d1f7a1)
 
+![egy2](https://github.com/user-attachments/assets/838d1cc5-9e84-4d96-8f86-35cc6395ff94)
 
-
-
+![egy3](https://github.com/user-attachments/assets/e77a93ba-83f8-4d74-a115-2c882db167d1)
 
 
 
