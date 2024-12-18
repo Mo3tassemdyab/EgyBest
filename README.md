@@ -1,7 +1,11 @@
 # EgyBest-App
 
 
+ ## Visit Now ==> https://egy-best-kappa.vercel.app/
 
+ ## API used
+### based on themoviedb: https://www.themoviedb.org/
+### For dev and API documentation: https://developers.themoviedb.org/3/getting-started/introduction
 
 
 
