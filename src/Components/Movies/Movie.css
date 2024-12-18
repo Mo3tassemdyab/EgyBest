@@ -1,0 +1,100 @@
+.nav-item:hover{
+    color: var(--a-trans-color);
+}
+
+
+#home .home-card{
+    border-radius: 15px;
+    overflow: hidden;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#home .home-card:hover{
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 5px var(--a-trans-color);
+}
+
+#home .home-card:hover h5{
+    color: var(--a-color);
+}
+
+#home h5{
+    color: white;
+    font-size: 18px;
+    background-color: var(--p-color);
+    padding: 5px 8px;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    transition: 0.3s;
+}
+
+.title {
+  position: relative;
+}
+.title::after {
+  content: "";
+  width: 25%;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+  bottom: 110%;
+  left: 0;
+}
+.title::before {
+  content: "";
+  width: 55%;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+  top: 110%;
+  left: 0;
+}
+.vote {
+  font-size: 14px;
+  color: var(--a-color);
+  background-color: var(--p-trans-color);
+  position: absolute;
+  padding: 3px 8px;
+  top: 15px;
+  right: 15px;
+}
+#home h3 {
+  color: rgba(255, 255, 255, 0.3);
+}
+#home .border{
+    border: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+@media screen and (min-width:560px) and (max-width:760px) {
+    #home h2{
+        font-size: 26px;
+        margin-bottom: 1rem;
+    }
+    
+    #home h3{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:462px) {
+    #home h5{
+        font-size: 14px;
+    }
+
+    #home h2{
+        font-size: 26px;
+        margin-bottom: 1rem;
+    }
+
+    #home h3{
+        font-size: 18px;
+    }
+}
+.sideBar{
+    border: solid 1px var(--a-color);
+}

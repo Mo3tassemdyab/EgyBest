@@ -1,13 +1,48 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200..700&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+:root {
+  --p-color: black;
+  --p-trans-color: rgba(0, 0, 0, 0.92);
+  --s-color: #FFC107;
+  --a-color: rgb(255, 193, 7);
+  --a-trans-color: rgba(255, 193, 7, 0.5);
+  --error-color: rgba(255, 0, 0, 0.5);
+}
+body{
+  font-family: "Montserrat Alternates", sans-serif;
+  background-color: var(--p-trans-color);
+  color: white;
+}
+input{
+  background-color: transparent !important;
+  color: white !important;
+}
+a, a:hover{
+  text-decoration: none;
+  color: white;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
 }
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: var( --a-color)  !important;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+

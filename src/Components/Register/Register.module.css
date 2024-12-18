@@ -1,0 +1,14 @@
+
+
+.icons{
+    position: relative;
+    display: flex;
+   
+}
+.icons i{
+    position: absolute;
+    cursor: pointer;
+    left: 95%;
+    transform: translateY(50%);
+
+}
