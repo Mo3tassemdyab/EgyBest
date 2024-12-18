@@ -14,6 +14,13 @@
 
 ![egy3](https://github.com/user-attachments/assets/e77a93ba-83f8-4d74-a115-2c882db167d1)
 
+![egy4](https://github.com/user-attachments/assets/e315c997-5056-4633-9597-aa3285c18492)
+
+![person](https://github.com/user-attachments/assets/94426574-1102-4fcd-8c28-6f2d755cced1)
+
+![tv](https://github.com/user-attachments/assets/f1fb88f4-0780-47e5-9f98-09392d9b3b83)
+
+
 
 
 
