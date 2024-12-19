@@ -1,3 +1,30 @@
+# EgyBest-App
+
+
+ ## Visit Now ==> https://egy-best-kappa.vercel.app/
+
+ ## API used
+### based on themoviedb: https://www.themoviedb.org/
+### For dev and API documentation: https://developers.themoviedb.org/3/getting-started/introduction
+
+## Screen Shots
+![egy](https://github.com/user-attachments/assets/52772ab0-7853-4c47-b6cf-0f0553d1f7a1)
+
+![egy2](https://github.com/user-attachments/assets/838d1cc5-9e84-4d96-8f86-35cc6395ff94)
+
+![egy3](https://github.com/user-attachments/assets/e77a93ba-83f8-4d74-a115-2c882db167d1)
+
+![egy4](https://github.com/user-attachments/assets/e315c997-5056-4633-9597-aa3285c18492)
+
+![person](https://github.com/user-attachments/assets/94426574-1102-4fcd-8c28-6f2d755cced1)
+
+![tv](https://github.com/user-attachments/assets/f1fb88f4-0780-47e5-9f98-09392d9b3b83)
+
+
+![sigin](https://github.com/user-attachments/assets/447a01ce-044a-4104-a9a8-061534fd0312)
+
+![login](https://github.com/user-attachments/assets/4d79c1ae-f42a-4120-9e99-5e0886c2ccab)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
