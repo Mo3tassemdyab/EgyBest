@@ -18,6 +18,9 @@ input{
   background-color: transparent !important;
   color: white !important;
 }
+i{
+  cursor: pointer;
+}
 a, a:hover{
   text-decoration: none;
   color: white;

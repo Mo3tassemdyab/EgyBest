@@ -148,6 +148,7 @@ export default function Register() {
             <label htmlFor="password">Password : </label>
             <div className={style.icons}>
               <input
+              type="password"
                 onChange={getUser}
                 className="  mb-4 form-control"
                 name="password"
@@ -169,6 +170,7 @@ export default function Register() {
             <label htmlFor="rePassword">rePassword : </label>
             <div className={style.icons}>
               <input
+              type="password"
                 onChange={getUser}
                 className=" mb-4 form-control"
                 name="rePassword"
